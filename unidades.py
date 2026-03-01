@@ -48,7 +48,7 @@ CONV_DATA = {
     "F3": {"label": "Velocidad", "icon": "velocidad.jpg", "factors": {"mi/hr": 1.0, "km/hr": 1.609344, "m/sec": 0.44704}},
     "F4": {"label": "Momento Flector", "icon": "Momento.jpg", "factors": {"kip-ft": 1.0, "kip-in": 12.0, "lbf-ft": 1000.0, "lbf-in": 12000.0, "N-m": 1355.818, "kN-m": 1.355, "kgf-m": 138.255}},
     "F5": {"label": "Área", "icon": "area.jpg", "factors": {"in2": 1.0, "ft2": 0.007, "m2": 0.001, "cm2": 6.452, "mm2": 645.16}},
-    "F6": {"label": "Módulo Sección", "icon": "seccional.jpg", "factors": {"in3": 1.0, "ft3": 0.001, "m3": 0.00002, "cm3": 16.387, "mm3": 16387.064}},
+    "F6": {"label": "Módulo Seccional", "icon": "seccional.jpg", "factors": {"in3": 1.0, "ft3": 0.001, "m3": 0.00002, "cm3": 16.387, "mm3": 16387.064}},
     "F7": {"label": "Inercia", "icon": "Inercia.jpg", "factors": {"in4": 1.0, "ft4": 0.00005, "m4": 0.0000004, "cm4": 41.623, "mm4": 416231.426}}
 }
 
