@@ -77,7 +77,7 @@ with c2:
     for u in CONV_DATA["F4"]["factors"]:
         st.number_input(u, key=f"F4_{u}", format="%.4f", on_change=sync, args=("F4", u))
 
-    st.markdown('<div class="unit-title">🧱 F6: Módulo Sección</div>', unsafe_allow_html=True)
+    st.markdown('<div class="unit-title">🧱 F6: Módulo Seccional</div>', unsafe_allow_html=True)
     for u in CONV_DATA["F6"]["factors"]:
         st.number_input(u, key=f"F6_{u}", format="%.6f", on_change=sync, args=("F6", u))
 
